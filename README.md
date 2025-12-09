@@ -6,13 +6,13 @@
 
 ## About me
 
-**I am:** 
+### I am:
 
-👀 Curious + 🎯 Focused + 🛠️ Resourceful. 
+**👀 Curious + 🎯 Focused + 🛠️ Resourceful.** 
 
-**Looking for:** 
+### Looking for:
 
-First job as a developer.
+**First job as a developer.**
 
 ---
 
