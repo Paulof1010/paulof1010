@@ -4,9 +4,9 @@
 
 ### Welcome to my GitHub
 
-#### About me
+## About me
 
-- Student at <a href="http://www.codeforall.com">Code for All_</a>;
+- Student at <a href="http://www.codeforall.com" target="_blank">Code for All_</a>;
 - Learning Java & JavaScript;
 - 
 
