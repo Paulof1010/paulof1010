@@ -4,13 +4,11 @@
 
 ### Welcome to my GitHub
 
+---
+
 ## About me
 
-- Student at: <a href="http://www.codeforall.com" target="_blank">Code for All_</a>;
-  
-- Learning: Java & JavaScript;
-  
-- Fun fact: 🎵 I love Opera!
+
 
 ---
 
@@ -30,9 +28,18 @@
 #### APIs
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
 
 ## Education
 
 2015-2017 -> Singing Course at EMCN;
 
-2025 -> Full-Stack Development Bootcamp at Code for All_
+2024 - 2025 -> Web Development Course at MasterD;
+
+2025 -> Full-Stack Development Bootcamp at Code for All_.
+
+---
+
+## Work Exp.
+
+2013 - 2024 -> Front-Office at Calouste Gulbenkian Foundation.
