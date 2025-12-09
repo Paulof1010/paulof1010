@@ -30,7 +30,9 @@
 #### APIs
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!--
-**Paulof1010/paulof1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
+## Education
+
+2015-2017 -> Singing Course at EMCN;
+
+2025 -> Full-Stack Development Bootcamp at Code for All_
