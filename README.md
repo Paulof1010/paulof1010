@@ -8,7 +8,9 @@
 
 ## About me
 
+** *I am* **
 
+**Looking for:** First job as a developer;
 
 ---
 
