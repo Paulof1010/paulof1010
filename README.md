@@ -8,9 +8,13 @@
 
 ## About me
 
-**I am:** 👀 Curious + 🎯 Focused + 🛠️ Resourceful. 
+**I am:** 
 
-**Looking for:** First job as a developer.
+👀 Curious + 🎯 Focused + 🛠️ Resourceful. 
+
+**Looking for:** 
+
+First job as a developer.
 
 ---
 
