@@ -2,8 +2,6 @@
 
 ## Developer
 
-### Welcome to my GitHub
-
 ---
 
 ## About me
