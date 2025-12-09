@@ -10,7 +10,7 @@
   
 - Learning: Java & JavaScript;
   
-- Fun fact: I love Opera!
+- Fun fact: 🎵 I love Opera!
 
 ---
 
