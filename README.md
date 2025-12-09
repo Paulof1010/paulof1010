@@ -1,6 +1,6 @@
 ## Hi there, my name is Paulo 👋
 
-<h3>Welcome! Here you'll find some of the projects I've done in my developer career.</h3>
+<h5>Welcome! Here you'll find some of the projects I've done in my developer career.</h5>
 
 
 <!--
