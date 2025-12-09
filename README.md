@@ -2,9 +2,9 @@
 
 ## Developer
 
-<h5>Welcome! Here you'll find some of the projects I've done in my developer career.</h5>
+### Welcome to my GitHub
 
-### About me
+#### About me
 
 - Student at <a href="http://www.codeforall.com">Code for All_</a>;
 - Learning Java & JavaScript;
