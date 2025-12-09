@@ -32,14 +32,14 @@
 
 ## Education
 
-2015-2017 -> Singing Course at EMCN;
+**2015 - 2017** -> Singing Course at EMCN;
 
-2024 - 2025 -> Web Development Course at MasterD;
+**2024 - 2025** -> Web Development Course at MasterD;
 
-2025 -> Full-Stack Development Bootcamp at Code for All_.
+**2025** -> Full-Stack Development Bootcamp at Code for All_.
 
 ---
 
 ## Work Exp.
 
-2013 - 2024 -> Front-Office at Calouste Gulbenkian Foundation.
+**2013 - 2024** -> Front-Office at Calouste Gulbenkian Foundation.
