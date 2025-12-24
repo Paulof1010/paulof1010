@@ -77,7 +77,7 @@ Link to Github Pages: http://paulof1010.github.io/my-website
 
 ## GitHub Stats
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulof1010&show_icons=true&theme=radical)  
+![Paulo's GitHub stats]
 
 ---
 
