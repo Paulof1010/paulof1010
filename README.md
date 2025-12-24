@@ -47,13 +47,13 @@
 
 ---
 
-### [My Website](https://paulof1010.github.io/my-website)
+### [My Website](https://github.com/Paulof1010/my-website)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 > Personal website showcasing my projects and skills.
-[https://paulof1010.github.io/my-website](#) | [https://github.com/Paulof1010/my-website](#)
+Link to Github Pages: http://paulof1010.github.io/my-website
 
 ---
 
