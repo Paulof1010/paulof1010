@@ -43,7 +43,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-> A simple platform to browse and filter lost/sighted pets.
+> A platform to browse and filter lost/sighted pets.
 
 ---
 
