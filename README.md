@@ -61,9 +61,11 @@ Link to Github Pages: http://paulof1010.github.io/my-website
 
 ## Education
 
-**2025**: Software Engineering & AI Bootcamp at Code for All  
-**2024 – 2025**: Web Development Course at MasterD
-**2015 – 2017**: Singing Course at EMCN 
+**2025**: Software Engineering & AI Bootcamp at Code for All;
+
+**2024 – 2025**: Web Development Course at MasterD;
+
+**2015 – 2017**: Singing Course at EMCN; 
 
 
 ---
