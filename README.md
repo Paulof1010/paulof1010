@@ -10,7 +10,7 @@
 **👀 Curious + 🎯 Focused + 🛠️ Resourceful**  
 
 ### Looking for:
-**An opportunity to develop my skills as a Software Engineer**  
+**An opportunity to develop my skills as a Software Engineer.**  
 
 ---
 
