@@ -78,14 +78,11 @@ Link to Github Pages: http://paulof1010.github.io/my-website
 
 ---
 
-## GitHub Stats
-
-![Paulo's GitHub stats]
 
 ---
 
 ## Interests
-- Web development and new technologies 💻  
+- Software Development and new technologies 💻  
 - Music and singing 🎵  
 - Learning and exploring creative problem-solving 🧠  
 
