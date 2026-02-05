@@ -1,6 +1,6 @@
 # Hi there, my name is Paulo 👋
 
-## Software Developer
+## Full-Stack Software Developer
 
 ---
 
