@@ -1,16 +1,16 @@
 # Hi there, my name is Paulo 👋
 
-## Developer
+## Software Developer
 
 ---
 
 ## About Me
 
 ### I am:
-**👀 Curious + 🎯 Focused + 🛠️ Resourceful**  
 
-### Looking for:
-**An opportunity to develop my skills as a Software Engineer.**  
+**A Junior Software Developer with hands-on experience building Web Applications and other projects based on Spring Boot, where the communication with the Java backend was made via REST APIs. I've also integrated web applications with PostgreSQL databases deployed in AWS, which is the cloud provider I had contact with. First of many, I hope.
+I've developed frontend interfaces based on JavaScript, HTML and CSS, which gives me the foundations to learn all state-of-the-art frameworks. 
+I've always worked in team-based and time-constrained environments, and now I am ready to take it to another level, developing software solutions.**
 
 ---
 
@@ -44,6 +44,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 > A platform to browse and filter lost/sighted pets.
+> Collaborated in a 4-person team under a 3-day deadline;
+> Built REST APIs with Spring Boot and PostgreSQL;
+> Developed frontend features using JavaScript, HTML and CSS;
+> Implemented interactive maps using Leaflet library;
+> Deployed application using AWS;
 
 ---
 
@@ -53,11 +58,21 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 > Personal website showcasing my projects and skills.
-Link to Github Pages: http://paulof1010.github.io/my-website
+> Link to Github Pages: http://paulof1010.github.io/my-website
 
 ---
 
+### [Crysknife Game](https://github.com/Paulof1010/project-crysknife)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+> Link to Itchio, where you can download the Jar File and try the game out: https://paulof1010.itch.io/crysknife-game
+
+> A time-based game, where you'll have to defeat all the worms in Arrakis.
+> Collaborated in a 4-person team under an 8-day deadline;
+> Developed core game logic including state management, game loop, and win/lose conditions;
+> Implemented screen transitions (Home, Game, Game Over, Win) using a modular architecture;
+
+---
 
 ## Education
 
@@ -67,24 +82,22 @@ Link to Github Pages: http://paulof1010.github.io/my-website
 
 **2015 – 2017**: Singing Course at EMCN; 
 
-
 ---
 
 ## Work Experience
 
 **2013 – 2024**: Front-Office at Calouste Gulbenkian Foundation  
-- Developed strong communication, organization, and problem-solving skills  
-- Coordinated with teams to ensure smooth daily operations  
-
----
-
+> Strong communication skills;
+> Experience with digital ticketing systems and process optimization;
+> Problem-solving under time pressure and coordination with internal teams;
 
 ---
 
 ## Interests
-- Software Development and new technologies 💻  
-- Music and singing 🎵  
-- Learning and exploring creative problem-solving 🧠  
+
+> Software Development and new technologies;
+> Music and singing;
+> Spending time with my friends and family;
 
 ---
 
